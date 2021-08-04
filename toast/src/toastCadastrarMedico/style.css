@@ -1,0 +1,26 @@
+.btn {
+    background-color: #0d6efd;
+    width: 190px;
+    font-size: 1rem;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 2rem 0 2rem 2rem;
+    color: #fff;
+    font-family: sans-serif;
+    border: none;
+}
+.btn:hover {
+    background-color: #0b5ed7;
+}
+
+.toast {
+    color: #155724;
+    background-color: #d4edda;
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 1rem;
+    left: calc(50% - 150px);
+}
